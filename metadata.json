@@ -1,7 +1,7 @@
 {
-  "name": "VRE Token",
+  "name": "VRE",
   "symbol": "VRE",
-  "description": "VRE (Virtual Reality Economy) Token - Locked until Liberation Day July 18, 2028. The foundational currency for the open metaverse.",
+  "description": "VRE (Virtual Reality Economics) Token - Locked until Liberation Day July 18, 2028. The foundational currency for the open metaverse.",
   "image": "https://raw.githubusercontent.com/virtualrealityeconomics/vre-assets/refs/heads/main/vre-logo.png",
   "external_url": "https://vrecoin.com",
   "attributes": [
