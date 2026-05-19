@@ -1,34 +1,50 @@
-{
-  "name": "VRE",
-  "symbol": "VRE",
-  "description": "VRE (Virtual Reality Economics) Token - Locked until Liberation Day July 18, 2028. The foundational currency for the open metaverse.",
-  "image": "https://raw.githubusercontent.com/virtualrealityeconomics/vre-assets/refs/heads/main/vre-logo.png",
-  "external_url": "https://vrecoin.com",
-  "attributes": [
-    {
-      "trait_type": "Liberation Day",
-      "value": "July 18, 2028"
-    },
-    {
-      "trait_type": "Total Supply", 
-      "value": "250,000,000"
-    },
-    {
-      "trait_type": "Phase 1 Price",
-      "value": "$0.20 USD"
-    },
-    {
-      "trait_type": "Network",
-      "value": "Solana"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/virtualrealityeconomics/vre-assets/refs/heads/main/vre-logo.png",
-        "type": "image/png"
-      }
+  {
+    "name": "VRE",
+    "symbol": "VRE",
+    "description": "VRE (Virtual Reality Economics) is the native token of the VRE 
+  platform — a regulated social launchpad on Solana that combines a creator-owned 
+  social network, an accountable token launchpad, on-chain vesting, US LLC formation 
+  (in the future), and Liquid Democracy governance into a single product.\n\nThe social
+   layer is a full creator network: videos with HLS streaming, image galleries, 
+  long-form posts, an integrated marketplace for digital goods (PDFs, courses, NFTs, 
+  services, bounties), and real-time chat with optional SOL escrow for paid messaging. 
+  Profiles surface a user's complete portfolio across all four formats. Every 
+  interaction — content, comments, follows, paid responses — builds the on-platform 
+  reputation that determines who becomes an Expert in governance.\n\nUnlike pure 
+  speculation venues, every project launched on VRE comes with built-in accountability.
+   VRE holds freeze authority over all tokenomics wallet allocations, releasing them 
+  via proof of work — meaning tokens are released only to people doing real work for 
+  the project (marketing via videos, development, etc.) or to people who buy through
+  the ICO. Investors are protected: founders must build to receive their tokens. All
+  holders — founders, Angel Round buyers, Round A buyers — unlock simultaneously on
+  Liberation Day, creating a fair and unified market launch with no insider escape
+  hatches.\n\nGovernance runs on a Liquid Democracy model. Any user can endorse one of
+  up to 101 Experts to delegate their voting power, or vote independently. The top 101
+  Experts by endorsement count form the Chairs council — a dynamic, real-time
+  leaderboard with no election cycles — and 51% of voting power passes proposals on
+  platform features, code commits, monetary policy, and token parameters. Experts are
+  earned through platform contribution (knowledge, content, reputation), not only
+  through token holdings.\n\nThe VRE token itself is the foundational currency of this
+  ecosystem: used to participate in the different functions of the ecosystem, to vote
+  in governance, and as the unit of value across the integrated marketplace (digital
+  goods, services, bounties, paid chat). All VRE tokens — without exception — are
+  locked from circulation until Liberation Day, when the entire supply unlocks for free
+   trading on the open market.",
+    "image": "https://raw.githubusercontent.com/virtualrealityeconomics/vre-assets/refs
+  /heads/main/vre-logo.png",
+    "external_url": "https://vre.pro",
+    "attributes": [
+      { "trait_type": "Liberation Day", "value": "April 16, 2029" },
+      { "trait_type": "Total Supply", "value": "250,000,000" },
+      { "trait_type": "Angel Round", "value": "$0.20 USD" },
+      { "trait_type": "Round A", "value": "$1.20 USD" },
+      { "trait_type": "Network", "value": "Solana" }
     ],
-    "category": "fungible"
+    "properties": {
+      "files": [
+        { "uri": "https://raw.githubusercontent.com/virtualrealityeconomics/vre-assets/
+  refs/heads/main/vre-logo.png", "type": "image/png" }
+      ],
+      "category": "fungible"
+    }
   }
-}
